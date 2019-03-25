@@ -4,13 +4,7 @@ package com.arr.IRR年化收益率;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Description:
- * Program Name: 计算契约利率的工具类
- * author :dujianjun
- * Date:2018-01-31  17:32  星期三
- * version 1.0
- */
+
 public class IrrUtils {
 
 
@@ -50,29 +44,7 @@ public class IrrUtils {
     public static void main(String[] args) {
         double flowOut=-1000d;
         List<Double> flowInArr=new ArrayList<>();
-        flowInArr.add(flowOut);
-        flowInArr.add(61.6667d);
-        flowInArr.add(61.6667d);
-        flowInArr.add(61.6667d);
-        flowInArr.add(61.6667d);
-        flowInArr.add(61.6667d);
-        flowInArr.add(61.6667d);
-        flowInArr.add(61.6667d);
-        flowInArr.add(61.6667d);
-        flowInArr.add(61.6667d);
-        flowInArr.add(61.6667d);
-        flowInArr.add(61.6667d);
-        flowInArr.add(61.6667d);
-        flowInArr.add(61.6667d);
-        flowInArr.add(61.6667d);
-        flowInArr.add(61.6667d);
-        flowInArr.add(61.6667d);
-        flowInArr.add(61.6667d);
-        flowInArr.add(61.6667d);
-        flowInArr.add(61.6667d);
-        flowInArr.add(61.6667d);
-        flowInArr.add(61.6667d);
-        flowInArr.add(61.6667d);
+
         flowInArr.add(61.6667d);
         flowInArr.add(61.6667d);
         //************   不管分多少期，这儿永远都是12  ************

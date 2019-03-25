@@ -7,13 +7,7 @@ import org.springframework.web.client.RestTemplate;
 
 import java.io.UnsupportedEncodingException;
 
-/**
- * Description:
- * Program Name:
- * author :dujianjun
- * Date:2018-06-08  15:12  星期五
- * version 1.0
- */
+
 public class SImpleCLinet {
 
     private static void RestTemplateVisit() {

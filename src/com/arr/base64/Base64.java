@@ -22,15 +22,7 @@ package com.arr.base64;
 
 import java.io.*;
 
-/**
- * <p>
- * Base64 encoding and decoding utility methods, both for binary and textual
- * informations.
- * </p>
- * 
- * @since 1.1
- * @version 1.3
- */
+
 public class Base64 {
 
 	/**

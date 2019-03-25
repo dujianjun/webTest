@@ -24,16 +24,7 @@ package com.arr.base64;
 import java.io.IOException;
 import java.io.OutputStream;
 
-/**
- * <p>
- * A base64 decoding output stream.
- * </p>
- * 
- * <p>
- * It encodes in base64 everything passed to the stream, and it puts the encoded
- * data into the underlying stream.
- * </p>
- */
+
 public class Base64OutputStream extends OutputStream {
 
 	/**

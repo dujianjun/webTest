@@ -24,18 +24,7 @@ package com.arr.base64;
 import java.io.IOException;
 import java.io.InputStream;
 
-/**
- * <p>
- * A base64 encoding input stream.
- * </p>
- * 
- * <p>
- * A <em>Base64InputStream</em> reads from an underlying stream which is
- * supposed to be a base64 encoded stream. <em>Base64InputStream</em> decodes
- * the data read from the underlying stream and returns the decoded bytes to the
- * caller.
- * </p>
- */
+
 public class Base64InputStream extends InputStream {
 
 	/**

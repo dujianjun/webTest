@@ -1,20 +1,14 @@
 package com.arr.json;
 
 import net.sf.json.JSONArray;
-import org.springframework.util.StringUtils;
+
 
 import java.io.*;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-/**
- * Description:
- * Program Name:
- * author :dujianjun
- * Date:2018-01-22  11:57  星期一
- * version 1.0
- */
+
 public class FileUtils {
     public static void test1() {
         return;

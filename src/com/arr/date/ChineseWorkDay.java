@@ -1,6 +1,5 @@
 package com.arr.date;
 import org.apache.log4j.Logger;
-import org.springframework.web.context.ContextLoader;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -11,13 +10,7 @@ import java.util.Date;
 import java.util.GregorianCalendar;
 import java.util.List;
 
-/**
- * Description:
- * Program Name:
- * author :dujianjun
- * Date:2018-05-10  14:27  星期四
- * version 1.0
- */
+
 public class ChineseWorkDay {
 private  static    Logger logger = Logger.getLogger(ChineseWorkDay.class);
 /**
